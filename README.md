@@ -1,7 +1,8 @@
 ## Материал доклада "Работа с DOM в JS фреймворках"
 
 Ссылка на слайды презентации: https://slides.com/nikmostovoy/deck-2bae97/
-Также копия есть в html варианте в репозитории
+
+Также копия есть в html варианте в репозитории — https://github.com/xnimorz/modern-frameworks-dom-invalidation-talk/raw/master/HolyJs-slides-RU.html (но нужно руками загружать)
 
 ### Полный пример кода invalidator + updater + inverseInvalidator
 
@@ -53,6 +54,9 @@ function App() {
 ### Полезные ссылки
 
 https://mohebifar.github.io/vidact/ — vidact
+
 https://rawgit.com/krausest/js-framework-benchmark/master/webdriver-ts-results/table.html — сравнение фронтенд-библиотек
+
 https://astexplorer.net/ — ast explorer
+
 https://svelte.dev/repl/668a0c17c30540e29a2c017b203a8ab0?version=3.23.2 — REPL с примером на svelte
